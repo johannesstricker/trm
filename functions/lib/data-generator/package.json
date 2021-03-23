@@ -15,6 +15,7 @@
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
-    "trm-api": "file:../trm-api"
+    "trm-api": "file:../trm-api",
+    "yaml": "^1.10.2"
   }
 }
